@@ -23,7 +23,7 @@ A streamlined build toolchain, inspired by tools like `create-react-app`. It's p
 ## 🔧 Commonly used Technologies & Tools
 - **Frontend:** React, TypeScript
 - **Backend:** Node.js
-- **Bundling:** `tsup`, Webpack, Vercel NCC (this is goood).  
+- **Bundling:** [repacked.dev](https://repacked.dev) , Rspack
 - **CI/CD:** GitHub Actions, DroneCI.  
 
 ---
